@@ -1,0 +1,99 @@
+This code book is used to list and clarify major topics for the final.txt.
+
+Identifiers
+
+"id_label" shows the list of names of activities
+
+"id_sub" shows the subject ID
+
+Variables
+
+"tBodyAccelerometer-mean()-X"
+"tBodyAccelerometer-mean()-Y"
+"tBodyAccelerometer-mean()-Z"
+"tBodyAccelerometer-standard deviation()-X"
+"tBodyAccelerometer-standard deviation()-Y"
+"tBodyAccelerometer-standard deviation()-Z"
+"tGravityAccelerometer-mean()-X"
+"tGravityAccelerometer-mean()-Y"
+"tGravityAccelerometer-mean()-Z"
+"tGravityAccelerometer-standard deviation()-X"
+"tGravityAccelerometer-standard deviation()-Y"
+"tGravityAccelerometer-standard deviation()-Z"
+"tBodyAccelerometerJerk-mean()-X"
+"tBodyAccelerometerJerk-mean()-Y"
+"tBodyAccelerometerJerk-mean()-Z"
+"tBodyAccelerometerJerk-standard deviation()-X"
+"tBodyAccelerometerJerk-standard deviation()-Y"
+"tBodyAccelerometerJerk-standard deviation()-Z"
+"tBodyGyroscope-mean()-X"
+"tBodyGyroscope-mean()-Y"
+"tBodyGyroscope-mean()-Z"
+"tBodyGyroscope-standard deviation()-X"
+"tBodyGyroscope-standard deviation()-Y"
+"tBodyGyroscope-standard deviation()-Z"
+"tBodyGyroscopeJerk-mean()-X"
+"tBodyGyroscopeJerk-mean()-Y"
+"tBodyGyroscopeJerk-mean()-Z"
+"tBodyGyroscopeJerk-standard deviation()-X"
+"tBodyGyroscopeJerk-standard deviation()-Y"
+"tBodyGyroscopeJerk-standard deviation()-Z"
+"tBodyAccelerometerMagnitude-mean()"
+"tBodyAccelerometerMagnitude-standard deviation()"
+"tGravityAccelerometerMagnitude-mean()"
+"tGravityAccelerometerMagnitude-standard deviation()"
+"tBodyAccelerometerJerkMagnitude-mean()"
+"tBodyAccelerometerJerkMagnitude-standard deviation()"
+"tBodyGyroscopeMagnitude-mean()"
+"tBodyGyroscopeMagnitude-standard deviation()"
+"tBodyGyroscopeJerkMagnitude-mean()"
+"tBodyGyroscopeJerkMagnitude-standard deviation()"
+"fBodyAccelerometer-mean()-X"
+"fBodyAccelerometer-mean()-Y"
+"fBodyAccelerometer-mean()-Z"
+"fBodyAccelerometer-standard deviation()-X"
+"fBodyAccelerometer-standard deviation()-Y"
+"fBodyAccelerometer-standard deviation()-Z"
+"fBodyAccelerometer-meanFreq()-X"
+"fBodyAccelerometer-meanFreq()-Y"
+"fBodyAccelerometer-meanFreq()-Z"
+"fBodyAccelerometerJerk-mean()-X"
+"fBodyAccelerometerJerk-mean()-Y"
+"fBodyAccelerometerJerk-mean()-Z"
+"fBodyAccelerometerJerk-standard deviation()-X"
+"fBodyAccelerometerJerk-standard deviation()-Y"
+"fBodyAccelerometerJerk-standard deviation()-Z"
+"fBodyAccelerometerJerk-meanFreq()-X"
+"fBodyAccelerometerJerk-meanFreq()-Y"
+"fBodyAccelerometerJerk-meanFreq()-Z"
+"fBodyGyroscope-mean()-X"
+"fBodyGyroscope-mean()-Y"
+"fBodyGyroscope-mean()-Z"
+"fBodyGyroscope-standard deviation()-X"
+"fBodyGyroscope-standard deviation()-Y"
+"fBodyGyroscope-standard deviation()-Z"
+"fBodyGyroscope-meanFreq()-X"
+"fBodyGyroscope-meanFreq()-Y"
+"fBodyGyroscope-meanFreq()-Z"
+"fBodyAccelerometerMagnitude-mean()"
+"fBodyAccelerometerMagnitude-standard deviation()"
+"fBodyAccelerometerMagnitude-meanFreq()"
+"fBodyAccelerometerJerkMagnitude-mean()"
+"fBodyAccelerometerJerkMagnitude-standard deviation()"
+"fBodyAccelerometerJerkMagnitude-meanFreq()"
+"fBodyGyroscopeMagnitude-mean()"
+"fBodyGyroscopeMagnitude-standard deviation()"
+"fBodyGyroscopeMagnitude-meanFreq()"
+"fBodyGyroscopeJerkMagnitude-mean()"
+"fBodyGyroscopeJerkMagnitude-standard deviation()"
+"fBodyGyroscopeJerkMagnitude-meanFreq()"
+
+
+Table of activity name and ID
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
